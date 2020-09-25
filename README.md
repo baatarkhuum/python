@@ -1,2 +1,1 @@
-sooo mein python code
-soo number 2 
+python number 2
