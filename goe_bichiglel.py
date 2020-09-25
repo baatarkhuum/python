@@ -1,0 +1,1 @@
+print(*[9-int(i)if int(i)>=5 else i for i in input()],sep='')
